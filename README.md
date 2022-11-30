@@ -1,7 +1,7 @@
 # Basic Porfolio Website
 
 Contains short introduction about developer
-[Live URL](https://sirbh.github.io/copy-fs13-basic-html/)
+Live URL: https://sirbh.github.io/copy-fs13-basic-html/
 
 ## Gettring Started
 
@@ -12,13 +12,14 @@ Contains short introduction about developer
 
 ## Technologies
 
--HTML
+- HTML
 
 ## Project Structure
 
+```
 fs13-basic-html
         .gitignore
         index.html
         readme-example.png
         README.md
-
+```
