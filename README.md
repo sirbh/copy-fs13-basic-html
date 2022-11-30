@@ -1,6 +1,6 @@
-# Introduction to basic HTML
+# Basic Porfolio Website
 
-Practice Git CLI, basic HTML elements and build short introduction about yourself.
+Contains short introduction about developer
 
 ## Requirement
 
