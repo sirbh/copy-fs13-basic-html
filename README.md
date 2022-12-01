@@ -18,8 +18,8 @@ Live URL: https://sirbh.github.io/copy-fs13-basic-html/
 
 ```
 fs13-basic-html
-        .gitignore
-        index.html
-        readme-example.png
-        README.md
+       - .gitignore
+       - index.html
+       - readme-example.png
+       - README.md
 ```
